@@ -1,3 +1,5 @@
+<h1>はちまるポップ</h1>
+<p><img src="https://github.com/noriokanisawa/HachiMaruPop/blob/master/HachiMaruPop_sample.png"></p>
 <h2>「はちまるポップ」について</h2>
 <p>こちらはGoogleFonts様に提供するフォントです。<br>
 1980年代頃の日本で流行した丸文字からアイディアを得て、現代風なデザインに落とし込みました。<br>
