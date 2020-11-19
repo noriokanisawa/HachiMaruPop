@@ -18,6 +18,9 @@ modifiedFont["DSIG"].usNumSigs = 0
 modifiedFont["DSIG"].signatureRecords = []
 modifiedFont["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
 
+modifiedFont["name"].addMultilingualName({'ja':'はちまるポップ'}, modifiedFont, nameID = 1, windows=True, mac=False)
+modifiedFont["name"].addMultilingualName({'ja':'Regular'}, modifiedFont, nameID = 2, windows=True, mac=False)
+
 modifiedFont.save("fonts/ttf/HachiMaruPop-Regular.ttf")
 
 shutil.rmtree("instance_ufo")
